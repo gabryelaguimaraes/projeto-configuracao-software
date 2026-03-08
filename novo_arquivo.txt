@@ -1,0 +1,3 @@
+Projeto de Gerenciamento de Configuração.
+
+Arquivo criado para a atividade prática da disciplina de Projeto de Software.
