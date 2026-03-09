@@ -1,2 +1,4 @@
 Projeto de Gerenciamento de Configuração
 Atividade prática - Projeto de Software
+
+Alteração realizada em 08/03 para demonstrar controle de versão.
